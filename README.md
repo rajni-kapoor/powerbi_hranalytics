@@ -12,8 +12,7 @@ Data-set : CSV file format “HR Analytics data.csv”
 
 *Problem-Statement:* The company has faced financial crisis after covid pandemic’s effect and the ongoing recession, and asked the human resource team to analyze the data and provide insights so that management can take decision to improve the company’s condition.
 
-![image](https://user-images.githubusercontent.com/123319398/228378568-1d3ad641-2bf4-4f51-8552-73977f5427e6.png)
-
+![image](https://user-images.githubusercontent.com/123319398/228572884-bd32855f-b56d-4e58-a1f1-f3d7afa2cfdf.png)
 
 Data Cleaning : The data was in a csv format which I import in a power bi desktop application and used power query editor to scrub the data. Following were the steps I took:  
 •	Splitting Columns by Delimiter as the whole content was separated by commas and in single cell  
